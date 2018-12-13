@@ -1,0 +1,46 @@
+
+
+.landingpage {
+	height: 100vh;
+	margin:	120px auto;
+}
+
+.learnmore {
+	width: 200px;
+	margin: 20px;
+}
+.imgcarousel {
+	height: 400px;
+	width: 100%;
+}
+.about {
+	height: 100vh;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+footer	{
+	background-color: black;
+}
+.copyright {
+	color: white;
+	padding: 30px;
+	margin:0px;
+}S
+
+.maps {
+	margin: 10px auto;
+	padding-left: 20px;
+	max-height: 90vh
+	width: 100%;
+}
+
+iframe {
+	margin-top: 30px;
+}
+
+.photog {
+	height: 300px;
+	width: 300px;
+}
